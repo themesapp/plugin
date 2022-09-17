@@ -1,19 +1,19 @@
 {
     "name" : "Pop Affiliate Free",
     "slug" : "pop-affiliate",
-    "download_url" : "https://example.com/plugins/my-cool-plugin.zip",
-    "version" : "2.0.0",
+    "download_url" : "",
+    "version" : "1.0.0",
     "author" : "Optimakit",
     "sections" : {
         "description" : "Pop Affiliate will turn your blog into a money machine with an affiliate marketing system. Get the Pop Affiliate Unlimited version because only 500 licenses are available."
     },
     "icons" : {
-        "1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
-        "2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+        "1x" : "",
+        "2x" : ""
     },
     
     "banners" : {
-        "low" : "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
-        "high" : "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+        "low" : "",
+        "high" : ""
     }
 }
